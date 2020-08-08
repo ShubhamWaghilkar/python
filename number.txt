@@ -1,0 +1,15 @@
+Numbers are:  09967970409Numbers are:  19967970401Numbers are:  29967970402Numbers are:  39967970403Numbers are:  49967970404Numbers are:  070Numbers are:  140Numbers are:  270Numbers are:  340Numbers are:  470Numbers are:  540Numbers are:  670Numbers are:  740Numbers are:  870Numbers are:  940Numbers are:  0996797040Numbers are:  19967970401Numbers are:  2996797040Numbers are:  3996797040Numbers are:  4996797040Numbers are:  0996797040 
+Numbers are:  19967970401 
+Numbers are:  2996797040 
+Numbers are:  3996797040 
+Numbers are:  4996797040 
+Numbers are:  09967970409 
+Numbers are:  19967970401 
+Numbers are:  29967970402 
+Numbers are:  39967970403 
+Numbers are:  49967970404 
+Numbers are:  0: 9967970409 
+Numbers are:  1: 9967970401 
+Numbers are:  2: 9967970402 
+Numbers are:  3: 9967970403 
+Numbers are:  4: 9967970404 
